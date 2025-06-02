@@ -19,16 +19,6 @@ On Day 1, we laid the foundation with a gentle introduction to Python and the pa
   
   📘 Notebook on EDA: EDA on Panel Dataset - Data loading, summary statistics, grouping by entities/time - Initial visualization and trends
 
-    📂 Day 1/
-├── Day1_EDA.ipynb
-
-├── Day 1_Notebook_1_data_types_intro.ipynb
-
-├── Day 1_Notebook_2_core_concepts_and_notation.ipynb
-
-├── Day 1_Notebook_3_advantages_of_panel_data.ipynb
-
-
 🗓️ Day 2 & Day 3: Panel Data Modeling in Action
 
 The second and third days of the workshop focused on implementing various panel data models and applying them to real-world datasets. Participants explored estimation techniques, fixed and random effects, and how to choose between them.
